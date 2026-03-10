@@ -1,6 +1,6 @@
 # 📚 LiterAlura - Catálogo de Libros
 
-¡Bienvenida a **LiterAlura**! Este es un proyecto desarrollado como parte del Challenge de Java de Alura Latam. Es una aplicación de consola que permite gestionar un catálogo de libros consumiendo datos reales de la API [Gutendex](https://gutendex.com/).
+¡Bienvenida a mi **LiterAlura**! Este es un proyecto parte del Challenge de Java de Alura Latam. Es una aplicación de consola que permite gestionar un catálogo de libros consumiendo datos reales de la API [Gutendex](https://gutendex.com/).
 
 ---
 
